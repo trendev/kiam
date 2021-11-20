@@ -1,0 +1,15 @@
+[submodule "firestore-proxy"]
+	path = firestore-proxy
+	url = https://github.com/trendev/firestore-proxy
+[submodule "kiam-backend"]
+	path = kiam-backend
+	url = https://github.com/trendev/kiam-backend
+[submodule "kiam-redirect"]
+	path = kiam-redirect
+	url = https://github.com/trendev/kiam-redirect
+[submodule "kiam-webapp"]
+	path = kiam-webapp
+	url = https://github.com/trendev/kiam-webapp
+[submodule "kiam-welcome"]
+	path = kiam-welcome
+	url = https://github.com/trendev/kiam-welcome
